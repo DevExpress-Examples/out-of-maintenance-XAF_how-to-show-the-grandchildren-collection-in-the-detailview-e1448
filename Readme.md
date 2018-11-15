@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Detail.cs](./CS/WinSample.Module/Detail.cs) (VB: [Detail.vb](./VB/WinSample.Module/Detail.vb))
+* **[Master.cs](./CS/WinSample.Module/Master.cs) (VB: [Master.vb](./VB/WinSample.Module/Master.vb))**
+* [SubDetail.cs](./CS/WinSample.Module/SubDetail.cs) (VB: [SubDetail.vb](./VB/WinSample.Module/SubDetail.vb))
+<!-- default file list end -->
 # How to show the grandchildren collection in the DetailView
 
 
